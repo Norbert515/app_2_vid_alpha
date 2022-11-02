@@ -1,1 +1,0 @@
-Place the graphics gen folder in here.
