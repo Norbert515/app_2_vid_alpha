@@ -1,1 +1,0 @@
-Place the ffmpeg executable in this directory.
